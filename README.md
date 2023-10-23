@@ -1,6 +1,6 @@
 ## Student Exam Performance Indicator
 
-## End to End MAchine Learning Project
+## End to End ML Project
 
 Create a new environment
 
